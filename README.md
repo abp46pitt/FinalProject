@@ -17,4 +17,4 @@
     
 ### Abstract
 
-Based on our analysis of each chosen metric we came to the conclusion that St. Clair is the best neighborhood in Pittsburgh. St. Clar ranked the best between increase in property values, lowest crime rates, and longest median life. St. Clair is already recognized to be an excellent neighborhood.
+Based on our analysis of each chosen metric we came to the conclusion that St. Clair is the best neighborhood in Pittsburgh. St. Clair ranked the best between increase in property values, lowest crime rates, and longest median life. St. Clair is already recognized to be an excellent neighborhood.
